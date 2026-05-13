@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-Content \"c:\\\\Users\\\\giada\\\\OneDrive\\\\Desktop\\\\THESIS\\\\GitHub\\\\OMG-Thesis\\\\Thesis_OMG analysis.ipynb\")",
+      "Bash(Measure-Object -Line)"
+    ]
+  }
+}
